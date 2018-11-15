@@ -1,0 +1,17 @@
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.Tests.deps.json
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.Tests.runtimeconfig.json
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.Tests.runtimeconfig.dev.json
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.Tests.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.Tests.pdb
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\bin\Debug\netcoreapp2.1\PrimeService.pdb
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.csprojAssemblyReference.cache
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.AssemblyInfoInputs.cache
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.AssemblyInfo.cs
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.csproj.CopyComplete
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.dll
+C:\Projects\unit-testing-using-mstest\PrimeService.Tests\obj\Debug\netcoreapp2.1\PrimeService.Tests.pdb
